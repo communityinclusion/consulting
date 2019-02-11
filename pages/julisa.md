@@ -3,7 +3,7 @@ layout: default
 title: Julisa Cully, MEd 
 permalink: /julisa
 ---
-<!--<img src="/imgs/russ.jpg" alt="Russ Thelin" class="float-left padding-right">-->
+<img src="/imgs/JulisaCully_300x350.jpg" alt="Julisa Cully" class="float-left padding-right">
 
 Expertise: Vocational Rehabilitation, Program Development and Management, Research, Knowledge Translation, TANF/Social Welfare, Mental Health Services and Systems
 

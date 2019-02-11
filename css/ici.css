@@ -25,5 +25,5 @@ section {padding-top: 5em; padding-bottom: 5em;}
   
 
  .rounded {border-radius:.75rem !important;}
- footer {background-color: #1178AD; color:white;}
+ footer { margin-top:10em; padding:4em; background-color: #1178AD; color:white;}
  footer a {color: #fff;}

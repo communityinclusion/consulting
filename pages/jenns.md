@@ -12,7 +12,7 @@ Jennifer is a national expert on <a href="Thinkwork.org/cle-toolkit">community l
 
 She has extensive research and program evaluation experience in competitive integrated employment supports for people with disabilities, state systems change, service provider transformation and quality improvement, evaluation of training and technical assistance activities, supports to families across the life span, transition to adulthood, and inclusive postsecondary education. 
 
-Jennifer is a Fellow of the American Association of Intellectual and Developmental Disabilities and past co-chair of the Disabilities and Other Vulnerable Populations Topical Interest Group of the American Evaluation Association. She received her Ph.D. in Social Policy from Brandeis University in 2006, with a dissertation titled In Search of Meaningful Daytimes: Community-Based Nonwork Supports for Adults with Developmental Disabilities.
+Jennifer is a Fellow of the American Association of Intellectual and Developmental Disabilities and past co-chair of the Disabilities and Other Vulnerable Populations Topical Interest Group of the American Evaluation Association. She received her Ph.D. in Social Policy from Brandeis University in 2006, with a dissertation titled In <i>Search of Meaningful Daytimes: Community-Based Nonwork Supports for Adults with Developmental Disabilities</i>.
 
 Email <a href="mailto:Jennifer.sulewski@umb.edu">Jennifer Sulewski</a>. 
 
