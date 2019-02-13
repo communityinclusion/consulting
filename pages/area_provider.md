@@ -1,7 +1,6 @@
 ---
 layout: default
 title: ICI Consulting - Provider Capacity-Building
-
 permalink: /provider
 ---
 
