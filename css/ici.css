@@ -41,6 +41,11 @@ section {padding-top: 5em; padding-bottom: 5em;}
 .cardh {height: 300px;}
 
 .cardp {height: 400px;}
+
+ .card {
+  color: inherit;
+  text-decoration: none;
+}
   
 
  .rounded {border-radius:.75rem !important;}
