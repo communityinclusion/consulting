@@ -3,7 +3,7 @@ layout: default
 title: Alvaro Tobar, MEd
 permalink: /alvaro
 ---
-<img src="/imgs/alvaro.jpg" alt=" Alvaro Tobar" class="float-left padding-right">
+<img src="/imgs/Alvaro-Tobar.png" alt=" Alvaro Tobar" class="float-left padding-right">
 
 Expertise: Instructional Technology and Media Integration, Multimedia Design, Video Production, Education
 
