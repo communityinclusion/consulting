@@ -5,7 +5,9 @@
     font-family: 'Montserrat', sans-serif;
 
 }
-  
+  h5 {
+    padding-top: 2em;
+  }
   main li {
     list-style-type: none;
     position: relative;
@@ -26,10 +28,10 @@ h3 {color: #187095;}
 nav.bg-dark {background-color: #1178AD !important;}
 nav.bg-dark  ul li a {font-size:larger; color:white !important;}
 
-.jumbotron {margin-top:0px;}
-.jumbotron h1  {color: white;}
-.jumbotron a {color:white;}
-.jumbotron h3 {color:white;}
+.jumbotron-blue {margin-top:0px; padding-top: 2em;}
+.jumbotron-blue h1  {color: white;}
+.jumbotron-blue a {color:white;}
+.jumbotron-blue h3 {color:white;}
 .jumbotron-blue{  background: #4B8EC9; color:white;}
 .bluey {color: #187095;}
 a {color:#187095; }
