@@ -4,5 +4,20 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#e0ebd5",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#7d9fc1",
+			"activityBarBadge.foreground": "#15202b",
+			"titleBar.activeBackground": "#c6dab3",
+			"titleBar.inactiveBackground": "#c6dab399",
+			"titleBar.activeForeground": "#15202b",
+			"titleBar.inactiveForeground": "#15202b99",
+			"statusBar.background": "#c6dab3",
+			"statusBarItem.hoverBackground": "#acc991",
+			"statusBar.foreground": "#15202b"
+		}
+	}
 }
