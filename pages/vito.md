@@ -3,7 +3,7 @@ layout: default
 title: Vito J. DeSantis, MPA
 permalink: /vito
 ---
-<img src="/imgs/vito.jpg" alt="Vito DeSantis" class="float-left padding-right">
+<img src="/imgs/VitoDeSantis_300x350.jpg" alt="Vito DeSantis" class="float-left padding-right">
 
 Expertise: Vocational Rehabilitation, Services and Programs for People Who Are Blind/Visually Impaired, Program Management, Technology and Service Provision, Technical Assistance
 
