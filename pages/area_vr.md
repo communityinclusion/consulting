@@ -23,3 +23,38 @@ Common areas of continuous improvement:
 For more information and an initial phone consultation, contact <a href="mailto:russell.thelin@umb.edu">Russ Thelin</a>.
 
 
+<section>
+
+
+<h2>EXPERTS</h2>
+<div class="row">
+
+<div class="col-md">
+        {% include teaser_joe.html %}
+</div>
+
+<div class="col-md">
+        {% include teaser_julisa.html %}
+</div>
+
+<div class="col-md">
+        {% include teaser_linda.html %}
+</div>
+
+</div>
+<p></p>
+<div class="row">
+<div class="col-md">
+        {% include teaser_neil.html %}
+</div>
+<div class="col-md">
+        {% include teaser_russ.html %}
+
+</div>        
+<div class="col-md">
+                {% include teaser_vito.html %}
+
+</div>
+</div>
+
+</section>
