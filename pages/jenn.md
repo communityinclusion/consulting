@@ -2,7 +2,7 @@
 layout: default
 title: Jennifer Sulewski, Ph.D., FAAIDD 
 
-permalink: /jenns
+permalink: /jenn
 ---
 <img src="/imgs/jenns.jpg" alt=" Jennifer Sulewski" class="float-left padding-right">
 
