@@ -5,7 +5,7 @@ permalink: /allison
 ---
 
 
-<img src="/imgs/" alt="Allison B. Taylor, PhD, MSW" class="float-left padding-right">
+<img src="/imgs/AllisonTaylor.jpg" alt="Allison B. Taylor, PhD, MSW" class="float-left padding-right">
 
 Allison is a Senior Research Associate at the Institute for Community Inclusion. She has over 20 years of experience in research, evaluation, teaching, and direct service. She began her career as a social worker and transformed a clinical interest in cultural responses to trauma into ethnographic research on the topic, earning a PhD in anthropology with her dissertation about the Somali diaspora.  
 

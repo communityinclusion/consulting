@@ -22,3 +22,15 @@ Need to train your staff on inclusive design and development? Need an accessibil
 
 Send an email to <a href="mailto:Jeff.Coburn@umb.edu">Jeff.Coburn@umb.edu</a> to get the process started.
 
+<div class="row">
+<div class="col-md">
+        {% include teaser_jeff.html %}
+</div>
+<div class="col-md">
+      
+</div>
+<div class="col-md">
+        
+</div>
+
+</div>

@@ -51,17 +51,24 @@ Working together, we can weave together employment and other community life enga
         {% include teaser_jaimie.html %}
 </div>
 <div class="col-md">
-<p>still need
-<ul>
-    <li>Lara Enein-Donovan</li>
-    <li>Cecilia Gandolfo</li>
-    <li>Cindy Thomas</li>
-</ul>
-</p>
+{% include teaser_lara.html %}
 </div>        
+<div class="col-md">
+       {% include teaser_cee.html %} 
+</div>
+</div>
+<p></p>
+<div class="row">
+<div class="col-md">
+        {% include teaser_cindy.html %}
+</div>
+<div class="col-md">
+      
+</div>
 <div class="col-md">
         
 </div>
+
 </div>
 
 </section>

@@ -3,7 +3,7 @@ layout: default
 title: Melissa Alford, MHS
 permalink: /melissa
 ---
-<img src="/imgs/" alt="Melissa Alford, MHS" class="float-left padding-right">
+<img src="/imgs/MelissaAlford.jpg" alt="Melissa Alford, MHS" class="float-left padding-right">
 
 Melissa Alford is a Research Study Coordinator at the Institute for Community Inclusion. She has over ten years of experience in research and advocacy for people with disabilities, with a primary focus on mental health.  
 

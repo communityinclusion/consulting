@@ -18,3 +18,15 @@ The instructional media team here at the Institute for Community Inclusion can s
  
 Want to learn more about our customized online training options? Email <a href="alvaro.tobar@umb.edu">Alvaro Tobar</a>. 
 
+<div class="row">
+<div class="col-md">
+        {% include teaser_alvaro.html %}
+</div>
+<div class="col-md">
+      
+</div>
+<div class="col-md">
+        
+</div>
+
+</div>

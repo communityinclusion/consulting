@@ -5,7 +5,7 @@ permalink: /kelly
 ---
 
 
-<img src="/imgs/" alt="Kelly Haines, MAs" class="float-left padding-right">
+<img src="/imgs/KellyHaines.jpg" alt="Kelly Haines, MAs" class="float-left padding-right">
 
 Kelly Haines is a Senior Research Associate at the Institute for Community Inclusion. Her background is in providing direct services to individuals with intellectual and developmental disabilities, and she is a trained social science researcher in the field of disability studies.  
 
