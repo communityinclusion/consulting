@@ -3,7 +3,7 @@ layout: default
 title: Linda Mock, MS 
 permalink: /linda
 ---
-<!--<img src="/imgs/russ.jpg" alt="Russ Thelin" class="float-left padding-right">-->
+<img src="/imgs/Linda Mock_300x350.jpg" alt="Linda Mock" class="float-left padding-right">
 
 Expertise: Vocational Rehabilitation, Transition, Special Education, Business Engagement, Policy Development, Progressive Employment, Specialized Services for People Who Are Blind/Visually Impaired
 
