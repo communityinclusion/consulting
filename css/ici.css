@@ -83,7 +83,7 @@ section {padding-top: 5em; padding-bottom: 5em;}
 }
 
 
-
+@media (min-width: 992px) {
 .cardh {height: 300px;}
 
 .cardp {height: 450px;}
@@ -91,7 +91,7 @@ section {padding-top: 5em; padding-bottom: 5em;}
 .card1 {height: 230px;}
 .card2 {height: 180px;}
 
-
+}
 
 .cardt {background-image: url(/imgs/card_bg.png);}
 
