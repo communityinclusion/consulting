@@ -24,7 +24,7 @@ Working together, we can weave together employment and other community life enga
 - Reach your full potential. We’ll offer guidance and resources, answer your questions, and track your progress. 
 
 
-**For more information and an initial phone consultation, contact <a href="mailto:david.hoff@umb.edu">David Hoff</a>.**
+<p>For more information and an initial phone consultation, contact <a href="mailto:david.hoff@umb.edu">David Hoff</a>.</p>
 
 <section>
 
