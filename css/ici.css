@@ -1,4 +1,7 @@
-  body {font-family: 'Open Sans', sans-serif;}
+ 
+ 
+
+ body {font-family: 'Open Sans', sans-serif;}
   
   h1, h2, h3, h4, h5, h6{
 
@@ -8,6 +11,8 @@
   h5 {
     padding-top: 2em;
   }
+
+  h3 {font-size:larger;}
   main li {
     list-style-type: none;
     position: relative;
@@ -92,6 +97,9 @@ section {padding-top: 5em; padding-bottom: 5em;}
 .card2 {height: 180px;}
 
 }
+
+
+
 
 .cardt {background-image: url(/imgs/card_bg.png);}
 
