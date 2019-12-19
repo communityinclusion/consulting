@@ -4,10 +4,9 @@
  body {font-family: 'Open Sans', sans-serif;}
   
   h1, h2, h3, h4, h5, h6{
-
     font-family: 'Montserrat', sans-serif;
-
 }
+
   h5 {
     padding-top: 2em;
   }
@@ -89,6 +88,7 @@ section {padding-top: 5em; padding-bottom: 5em;}
 
 
 @media (min-width: 992px) {
+  h1 {font-size: 4em;}
 .cardh {height: 300px;}
 
 .cardp {height: 450px;}
@@ -97,7 +97,6 @@ section {padding-top: 5em; padding-bottom: 5em;}
 .card2 {height: 180px;}
 
 }
-
 
 
 
