@@ -96,8 +96,16 @@ section {padding-top: 5em; padding-bottom: 5em;}
 .card1 {height: 230px;}
 .card2 {height: 180px;}
 
+.logo {padding-right:2em; float:left;}
+
 }
 
+@media (max-width: 767.98px) {
+  h1 {font-size: 2em;}
+  .logo {  display: block;
+    margin-left: auto;
+    margin-right: auto;}
+}
 
 
 .cardt {background-image: url(/imgs/card_bg.png);}
