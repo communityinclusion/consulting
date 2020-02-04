@@ -89,7 +89,7 @@ section {padding-top: 5em; padding-bottom: 5em;}
 
 @media (min-width: 992px) {
   h1 {font-size: 4em;}
-.cardh {height: 300px;}
+.cardh {height: 200px;}
 
 .cardp {height: 450px;}
 
