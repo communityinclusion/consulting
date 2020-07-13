@@ -12,20 +12,7 @@
   }
 
   h3 {font-size:larger;}
-  main li {
-    list-style-type: none;
-    position: relative;
-    padding-left: 15px;
-  }
-  
-  main li:before {
-    content: "\25BA \0020";
-    font-size: 10px;
-    color: #187095;
-    position: absolute;
-    top: 5px;
-    left: -10px;
-  }
+ 
 
 h3 {color: #187095;}
 
