@@ -16,7 +16,7 @@ The instructional media team here at the Institute for Community Inclusion can s
  
 **Track the impact of the training**. We use data tracking to make changes and improvements to media content, assess its effectiveness, and inform you how your instructional strategy is working.
  
-Want to learn more about our customized online training options? Email <a href="alvaro.tobar@umb.edu">Alvaro Tobar</a>. 
+Want to learn more about our customized online training options? Email <a href="mailto:alvaro.tobar@umb.edu">Alvaro Tobar</a>. 
 
 <div class="row">
 <div class="col-md">
