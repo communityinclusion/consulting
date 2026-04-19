@@ -1,0 +1,25 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import NavFront from '../components/NavFront.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!doctype html>
+<html lang="en">
+    <BaseHead />
+
+  <body>
+
+    <NavFront />
+
+
+    <main role="main frontin">
+  <slot />
+    </main>
+
+      <Footer />
+
+
+
+  </body>
+</html>
