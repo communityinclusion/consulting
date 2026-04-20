@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "teaserTitle": {
+      "type": "string"
+    },
+    "teaserDescription": {
+      "type": "string"
+    },
+    "contact": {
+      "type": "string"
+    },
+    "staffSlugs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "externalUrl": {
+      "type": "string"
+    },
+    "$schema": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "name",
+    "title",
+    "teaserTitle",
+    "teaserDescription",
+    "staffSlugs"
+  ]
+}
