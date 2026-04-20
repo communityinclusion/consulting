@@ -1,0 +1,56 @@
+backend:
+  name: github
+  repo: communityinclusion/consulting
+  branch: master
+
+media_folder: "public/imgs"
+public_folder: "/imgs"
+
+collections:
+  - name: staff
+    label: Staff
+    folder: "src/content/staff"
+    create: true
+    slug: "{{fields.name | slugify}}"
+    extension: md
+    format: yaml-frontmatter
+    fields:
+      - { label: "Name", name: "name", widget: "string", required: true }
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - { label: "Photo", name: "photo", widget: "image", required: true }
+      - { label: "Photo Alt Text", name: "photoAlt", widget: "string", required: true }
+      - { label: "Expertise (comma-separated)", name: "expertise", widget: "string", required: true }
+      - label: "Teaser Expertise"
+        name: "teaserExpertise"
+        widget: "list"
+        required: true
+        field: { label: "Item", name: "item", widget: "string" }
+      - { label: "Email", name: "email", widget: "string", required: true }
+      - { label: "Credentials", name: "credentials", widget: "string", required: false }
+      - { label: "Display Order", name: "order", widget: "number", required: false, value_type: "int" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: areas
+    label: Areas of Expertise
+    folder: "src/content/areas"
+    create: true
+    slug: "{{fields.name | slugify}}"
+    extension: md
+    format: yaml-frontmatter
+    fields:
+      - { label: "Name", name: "name", widget: "string", required: true }
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - { label: "Teaser Title", name: "teaserTitle", widget: "string", required: true, hint: "May include <br> for line breaks" }
+      - { label: "Teaser Description", name: "teaserDescription", widget: "text", required: true }
+      - { label: "Contact Email", name: "contact", widget: "string", required: false }
+      - label: "Staff Members"
+        name: "staffSlugs"
+        widget: "relation"
+        collection: "staff"
+        search_fields: ["name"]
+        value_field: "{{slug}}"
+        display_fields: ["name"]
+        multiple: true
+        required: true
+      - { label: "External URL", name: "externalUrl", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }

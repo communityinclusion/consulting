@@ -1,0 +1,27 @@
+---
+interface Props {
+  slug: string;
+  name: string;
+  photo: string;
+  photoAlt: string;
+  teaserExpertise: string[];
+}
+
+const { slug, name, photo, photoAlt, teaserExpertise } = Astro.props;
+---
+
+<a href={`/${slug}/`} class="card cardp">
+
+    <div class="card-body">
+
+            <h5>{name}</h5>
+            <center>
+                <img class="rounded smiles" src={photo} alt={photoAlt}> </center>
+
+        <ul>
+        {teaserExpertise.map((item) => (
+        <li>{item}</li>
+        ))}
+</ul>
+    </div>
+</a>

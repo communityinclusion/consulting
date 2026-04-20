@@ -1,0 +1,406 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "ICI Consulting" [ref=e4] [cursor=pointer]:
+        - /url: "#"
+        - img "ICI" [ref=e5]
+        - text: Consulting
+      - list [ref=e7]:
+        - listitem [ref=e8]:
+          - link "Our Approach" [ref=e9] [cursor=pointer]:
+            - /url: "#approach"
+        - listitem [ref=e10]:
+          - link "Our Expertise" [ref=e11] [cursor=pointer]:
+            - /url: "#expertise"
+        - listitem [ref=e12]:
+          - link "Our Experts" [ref=e13] [cursor=pointer]:
+            - /url: "#experts"
+        - listitem [ref=e14]:
+          - link "[ Let's talk! ]" [ref=e15] [cursor=pointer]:
+            - /url: "#contact"
+  - main [ref=e16]:
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - img "ICI logo" [ref=e21]
+          - heading "ICI CONSULTING" [level=1] [ref=e22]
+          - heading "Decades of problem-solving experience." [level=3] [ref=e23]
+          - paragraph [ref=e25]: The Institute for Community Inclusion, or ICI, is nationally recognized for our research, technical assistance, training, and project development in the field of disability. Through ICI Consulting Services, you can access the full breadth and scope of our expertise. We tailor our resources to meet the needs of organizations like yours, so you can grow, thrive, and measure your progress.
+        - img [ref=e27]
+      - generic [ref=e28]:
+        - paragraph [ref=e29]: Ready to get started?
+        - paragraph [ref=e30]:
+          - button "Let's talk! »" [ref=e31] [cursor=pointer]
+        - paragraph [ref=e32]:
+          - text: Want more information?
+          - link "" [ref=e33] [cursor=pointer]:
+            - /url: "#intro"
+            - generic [ref=e34]: 
+    - generic [ref=e37]:
+      - link "Our Approach" [ref=e39] [cursor=pointer]:
+        - /url: "#approach"
+        - heading "Our Approach" [level=2] [ref=e42]
+      - link "Our Expertise" [ref=e44] [cursor=pointer]:
+        - /url: "#expertise"
+        - heading "Our Expertise" [level=2] [ref=e47]
+      - link "Our Experts" [ref=e49] [cursor=pointer]:
+        - /url: "#experts"
+        - heading "Our Experts" [level=2] [ref=e52]
+    - generic [ref=e54]:
+      - blockquote [ref=e55]:
+        - paragraph [ref=e56]: "\"ICI Consulting assisted my leadership team at a time when we really needed to develop a common vision and purpose. Senior Policy Fellow Russ Thelin's facilitation of the conversation and planning was key in establishing that vision, identifying values, and bringing my team closer together. The resulting impact on my agency has been very positive and I would recommend ICI Consulting services to other agencies facing similar challenges.\""
+        - img "Rob Hines" [ref=e57]
+        - paragraph [ref=e58]:
+          - text: "-Rob Hines, Director"
+          - text: Washington Division of Vocational Rehabilitation
+      - paragraph [ref=e59]
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - img [ref=e62]
+        - heading "Our Approach" [level=1] [ref=e63]
+        - paragraph [ref=e64]: Our resources are tailored to ensure you fulfill your organization's particular vision of meeting its mission. We're here to help you grow, thrive, and measure your progress.
+        - paragraph [ref=e65]:
+          - strong [ref=e66]: "Our consultation services help you:"
+        - paragraph [ref=e67]:
+          - strong [ref=e68]: Challenge
+          - text: the status quo. Together, we'll look critically at your organizational vision, mission, policy, and practice; determine what's hindering your progress; and figure out what needs to change to achieve the culture you envision.
+        - paragraph [ref=e69]:
+          - strong [ref=e70]: Innovate
+          - text: a plan for desired outcomes. With our expert insights, establish how you want things to look and be, and identify clear objectives and next steps.
+        - paragraph [ref=e71]:
+          - strong [ref=e72]: Empower
+          - text: you to carry out the plan, using participatory leadership to guide the change process, delegate to others, and allow for innovation and problem solving at all levels.
+        - paragraph [ref=e73]:
+          - strong [ref=e74]: Encourage
+          - text: full engagement, involving all staff members in staying the course and keeping the plan a priority. This includes building communication feedback loops, reinforcing efforts, and celebrating successes.
+        - paragraph [ref=e75]:
+          - strong [ref=e76]: Assess
+          - text: results by tracking outcomes, using both quantitative and qualitative methods, and using the insights gained to inform continuous improvement, identify your next challenge, and move on to even higher achievements.
+      - paragraph
+      - generic [ref=e77]:
+        - heading "Learn about our AREAS OF EXPERTISE" [level=5] [ref=e78]
+        - link "" [ref=e79] [cursor=pointer]:
+          - /url: "#expertise"
+          - generic [ref=e80]: 
+    - generic [ref=e82]:
+      - blockquote [ref=e83]:
+        - paragraph [ref=e84]: "\"The Institute for Community Inclusion's expertise helped our organization take much needed steps to finally close our workshop. Their support helped us to make sure that every person had expanded opportunities and choices whether it be in employment, volunteer work or in choosing activities they want to participate in throughout their day. We would never have moved as quickly or as systematically if not for the support we received.\""
+        - img "Susan Klingel" [ref=e85]
+        - paragraph [ref=e86]:
+          - text: "-Susan Klingel, Executive Director"
+          - text: Arc of Madison County
+      - paragraph [ref=e87]
+    - generic [ref=e89]:
+      - heading "AREAS OF EXPERTISE" [level=2] [ref=e90]
+      - generic [ref=e91]:
+        - link "Vocational Rehabilitation Our VR content experts are skilled in program improvement, innovation, and cultural change. We can work with you to bring your agency's outcomes to the next level and measure your success." [ref=e93] [cursor=pointer]:
+          - /url: /vr/
+          - generic [ref=e94]:
+            - heading "Vocational Rehabilitation" [level=3] [ref=e95]:
+              - text: Vocational
+              - text: Rehabilitation
+            - paragraph [ref=e96]: Our VR content experts are skilled in program improvement, innovation, and cultural change. We can work with you to bring your agency's outcomes to the next level and measure your success.
+        - link "Provider Capacity-Building Service providers are moving away from center-based services to supporting individuals in the community. We can help you weave together employment and other community life engagement options to create a full life for the people you serve." [ref=e98] [cursor=pointer]:
+          - /url: /provider/
+          - generic [ref=e99]:
+            - heading "Provider Capacity-Building" [level=3] [ref=e100]:
+              - text: Provider
+              - text: Capacity-Building
+            - paragraph [ref=e101]: Service providers are moving away from center-based services to supporting individuals in the community. We can help you weave together employment and other community life engagement options to create a full life for the people you serve.
+      - paragraph
+      - generic [ref=e102]:
+        - link "Inclusive Design and Technology All the materials your agency creates--whether printed or online--must be accessible to a wide range of audiences. We can help you meet and exceed accessibility standards across all platforms and media." [ref=e104] [cursor=pointer]:
+          - /url: /a11y/
+          - generic [ref=e105]:
+            - heading "Inclusive Design and Technology" [level=3] [ref=e106]:
+              - text: Inclusive Design
+              - text: and Technology
+            - paragraph [ref=e107]: All the materials your agency creates--whether printed or online--must be accessible to a wide range of audiences. We can help you meet and exceed accessibility standards across all platforms and media.
+        - link "Instructional Media Services Does your agency need efficient, low-cost training options? We can customize training opportunities to help your staff members excel and grow professionally." [ref=e109] [cursor=pointer]:
+          - /url: /media/
+          - generic [ref=e110]:
+            - heading "Instructional Media Services" [level=3] [ref=e111]:
+              - text: Instructional
+              - text: Media Services
+            - paragraph [ref=e112]: Does your agency need efficient, low-cost training options? We can customize training opportunities to help your staff members excel and grow professionally.
+      - generic [ref=e113]:
+        - heading "Learn about our EXPERTS" [level=5] [ref=e114]
+        - link "" [ref=e115] [cursor=pointer]:
+          - /url: "#experts"
+          - generic [ref=e116]: 
+    - generic [ref=e118]:
+      - blockquote [ref=e119]:
+        - paragraph [ref=e120]: "\"Working with the Institute for Community Inclusion was an essential element to our efforts to align services to improve consumer outcomes. The team was easy to work with and very experienced and knowledgeable. They understood what we were trying to do, and helped us create a strategic plan that was customized to our unique needs. They also provided resources to help us achieve the goals of the strategic plan. Throughout, we felt we had a partner that supported our efforts by providing expert consulting.\""
+        - img "Kyle J Walker" [ref=e121]
+        - paragraph [ref=e122]:
+          - text: "-Kyle J. Walker, Division Director"
+          - text: South Carolina Commission for the Blind
+      - paragraph [ref=e123]
+    - generic [ref=e125]:
+      - heading "EXPERTS" [level=2] [ref=e126]
+      - generic [ref=e127]:
+        - link "Alvaro Tobar, MEd Alvaro Tobar Inclusive media production Learning management system design and development Instructional design and course developmment" [ref=e129] [cursor=pointer]:
+          - /url: /alvaro/
+          - generic [ref=e130]:
+            - heading "Alvaro Tobar, MEd" [level=5] [ref=e131]
+            - img "Alvaro Tobar" [ref=e133]
+            - list [ref=e134]:
+              - listitem [ref=e135]: Inclusive media production
+              - listitem [ref=e136]: Learning management system design and development
+              - listitem [ref=e137]: Instructional design and course developmment
+        - link "David Hoff, MSW David Hoff. IDD state systems Workforce development systems Employment support practices Service provider practices and management" [ref=e139] [cursor=pointer]:
+          - /url: /hoff/
+          - generic [ref=e140]:
+            - heading "David Hoff, MSW" [level=5] [ref=e141]
+            - img "David Hoff." [ref=e143]
+            - list [ref=e144]:
+              - listitem [ref=e145]: IDD state systems
+              - listitem [ref=e146]: Workforce development systems
+              - listitem [ref=e147]: Employment support practices
+              - listitem [ref=e148]: Service provider practices and management
+        - link "Jaimie Timmons, MSW Jaimie Timmons. Service provider practices and management Community life engagement Research Family engagement" [ref=e150] [cursor=pointer]:
+          - /url: /jaimie/
+          - generic [ref=e151]:
+            - heading "Jaimie Timmons, MSW" [level=5] [ref=e152]
+            - img "Jaimie Timmons." [ref=e154]
+            - list [ref=e155]:
+              - listitem [ref=e156]: Service provider practices and management
+              - listitem [ref=e157]: Community life engagement
+              - listitem [ref=e158]: Research
+              - listitem [ref=e159]: Family engagement
+      - paragraph
+      - generic [ref=e160]:
+        - link "Jeff Coburn Jeff Coburn Inclusive web development Agile project management Organizational information technology Conference speaker" [ref=e162] [cursor=pointer]:
+          - /url: /jeff/
+          - generic [ref=e163]:
+            - heading "Jeff Coburn" [level=5] [ref=e164]
+            - img "Jeff Coburn" [ref=e166]
+            - list [ref=e167]:
+              - listitem [ref=e168]: Inclusive web development
+              - listitem [ref=e169]: Agile project management
+              - listitem [ref=e170]: Organizational information technology
+              - listitem [ref=e171]: Conference speaker
+        - link "Jennifer Sulewski, PhD Jennifer Sulewski Service provider practices and management Community life engagement Program evaluation Research" [ref=e173] [cursor=pointer]:
+          - /url: /jenn/
+          - generic [ref=e174]:
+            - heading "Jennifer Sulewski, PhD" [level=5] [ref=e175]
+            - img "Jennifer Sulewski" [ref=e177]
+            - list [ref=e178]:
+              - listitem [ref=e179]: Service provider practices and management
+              - listitem [ref=e180]: Community life engagement
+              - listitem [ref=e181]: Program evaluation
+              - listitem [ref=e182]: Research
+        - link "Joseph A. Marrone, MEd Joe Marrone. VR state systems Mental health systems Business engagement Organizational and cultural change" [ref=e184] [cursor=pointer]:
+          - /url: /joe/
+          - generic [ref=e185]:
+            - heading "Joseph A. Marrone, MEd" [level=5] [ref=e186]
+            - img "Joe Marrone." [ref=e188]
+            - list [ref=e189]:
+              - listitem [ref=e190]: VR state systems
+              - listitem [ref=e191]: Mental health systems
+              - listitem [ref=e192]: Business engagement
+              - listitem [ref=e193]: Organizational and cultural change
+      - paragraph
+      - generic [ref=e194]:
+        - link "John Butterworth, PhD John Butterworth Employment support practices IDD state systems Research Employment data systems" [ref=e196] [cursor=pointer]:
+          - /url: /john/
+          - generic [ref=e197]:
+            - heading "John Butterworth, PhD" [level=5] [ref=e198]
+            - img "John Butterworth" [ref=e200]
+            - list [ref=e201]:
+              - listitem [ref=e202]: Employment support practices
+              - listitem [ref=e203]: IDD state systems
+              - listitem [ref=e204]: Research
+              - listitem [ref=e205]: Employment data systems
+        - link "Julisa Cully, MEd Julisa Cully VR state systems Mental health systems Organizational and cultural change Business Engagement" [ref=e207] [cursor=pointer]:
+          - /url: /julisa/
+          - generic [ref=e208]:
+            - heading "Julisa Cully, MEd" [level=5] [ref=e209]
+            - img "Julisa Cully" [ref=e211]
+            - list [ref=e212]:
+              - listitem [ref=e213]: VR state systems
+              - listitem [ref=e214]: Mental health systems
+              - listitem [ref=e215]: Organizational and cultural change
+              - listitem [ref=e216]: Business Engagement
+        - link "Linda Mock, MS Linda Mock. VR state systems Transition from school to adult life Business engagement" [ref=e218] [cursor=pointer]:
+          - /url: /linda/
+          - generic [ref=e219]:
+            - heading "Linda Mock, MS" [level=5] [ref=e220]
+            - img "Linda Mock." [ref=e222]
+            - list [ref=e223]:
+              - listitem [ref=e224]: VR state systems
+              - listitem [ref=e225]: Transition from school to adult life
+              - listitem [ref=e226]: Business engagement
+      - paragraph
+      - generic [ref=e227]:
+        - link "Neil McNeil, MA Neil McNeil. VR state systems Business Engagement Transition from School to Adult life Organizational and Cultural Change" [ref=e229] [cursor=pointer]:
+          - /url: /neil/
+          - generic [ref=e230]:
+            - heading "Neil McNeil, MA" [level=5] [ref=e231]
+            - img "Neil McNeil." [ref=e233]
+            - list [ref=e234]:
+              - listitem [ref=e235]: VR state systems
+              - listitem [ref=e236]: Business Engagement
+              - listitem [ref=e237]: Transition from School to Adult life
+              - listitem [ref=e238]: Organizational and Cultural Change
+        - link "Russ Thelin, M.S., LVRC, CRC Russ Thelin VR state systems Organizational and cultural change Business Engagement Inclusive Higher Education" [ref=e240] [cursor=pointer]:
+          - /url: /russ/
+          - generic [ref=e241]:
+            - heading "Russ Thelin, M.S., LVRC, CRC" [level=5] [ref=e242]
+            - img "Russ Thelin" [ref=e244]
+            - list [ref=e245]:
+              - listitem [ref=e246]: VR state systems
+              - listitem [ref=e247]: Organizational and cultural change
+              - listitem [ref=e248]: Business Engagement
+              - listitem [ref=e249]: Inclusive Higher Education
+        - link "Vito J. DeSantis, MPA vito. VR state systems Services for people who are blind or visually impaired" [ref=e251] [cursor=pointer]:
+          - /url: /vito/
+          - generic [ref=e252]:
+            - heading "Vito J. DeSantis, MPA" [level=5] [ref=e253]
+            - img "vito." [ref=e255]
+            - list [ref=e256]:
+              - listitem [ref=e257]: VR state systems
+              - listitem [ref=e258]: Services for people who are blind or visually impaired
+      - paragraph
+      - generic [ref=e259]:
+        - link "Lara Enein-Donovan, MA, CESP Lara Enein-Donovan, MA, CESP Employment support practices Service provider practices and management IDD state systems Front line staff training" [ref=e261] [cursor=pointer]:
+          - /url: /lara/
+          - generic [ref=e262]:
+            - heading "Lara Enein-Donovan, MA, CESP" [level=5] [ref=e263]
+            - img "Lara Enein-Donovan, MA, CESP" [ref=e265]
+            - list [ref=e266]:
+              - listitem [ref=e267]: Employment support practices
+              - listitem [ref=e268]: Service provider practices and management
+              - listitem [ref=e269]: IDD state systems
+              - listitem [ref=e270]: Front line staff training
+        - link "Cecilia Gandolfo, MSEd, CESP Cecilia Gandolfo, MSEd, CESP Employment Services/Progressive Employment Vocational Rehabilitation Curriculum Development,Training, and Facilitation" [ref=e272] [cursor=pointer]:
+          - /url: /cee/
+          - generic [ref=e273]:
+            - heading "Cecilia Gandolfo, MSEd, CESP" [level=5] [ref=e274]
+            - img "Cecilia Gandolfo, MSEd, CESP" [ref=e276]
+            - list [ref=e277]:
+              - listitem [ref=e278]: Employment Services/Progressive Employment
+              - listitem [ref=e279]: Vocational Rehabilitation
+              - listitem [ref=e280]: Curriculum Development,Training, and Facilitation
+        - link "Cindy Thomas, Director Cindy Thomas Employment support practices Service provider practices and management IDD state systems Community life engagement" [ref=e282] [cursor=pointer]:
+          - /url: /cindy/
+          - generic [ref=e283]:
+            - heading "Cindy Thomas, Director" [level=5] [ref=e284]
+            - img "Cindy Thomas" [ref=e286]
+            - list [ref=e287]:
+              - listitem [ref=e288]: Employment support practices
+              - listitem [ref=e289]: Service provider practices and management
+              - listitem [ref=e290]: IDD state systems
+              - listitem [ref=e291]: Community life engagement
+      - paragraph
+      - generic [ref=e292]:
+        - link "Melissa Alford, MHS Melissa Alford, MHS VR state systems Research Program evaluation Mental health systems" [ref=e294] [cursor=pointer]:
+          - /url: /melissa/
+          - generic [ref=e295]:
+            - heading "Melissa Alford, MHS" [level=5] [ref=e296]
+            - img "Melissa Alford, MHS" [ref=e298]
+            - list [ref=e299]:
+              - listitem [ref=e300]: VR state systems
+              - listitem [ref=e301]: Research
+              - listitem [ref=e302]: Program evaluation
+              - listitem [ref=e303]: Mental health systems
+        - link "Allison B. Taylor, PhD, MSW Allison B. Taylor, PhD, MSW VR state systems Research Program evaluation Mental health systems" [ref=e305] [cursor=pointer]:
+          - /url: /allison/
+          - generic [ref=e306]:
+            - heading "Allison B. Taylor, PhD, MSW" [level=5] [ref=e307]
+            - img "Allison B. Taylor, PhD, MSW" [ref=e309]
+            - list [ref=e310]:
+              - listitem [ref=e311]: VR state systems
+              - listitem [ref=e312]: Research
+              - listitem [ref=e313]: Program evaluation
+              - listitem [ref=e314]: Mental health systems
+        - link "Kelly Haines, MA Kelly Haines, MA VR state systems Research Program evaluation Business engagement" [ref=e316] [cursor=pointer]:
+          - /url: /kelly/
+          - generic [ref=e317]:
+            - heading "Kelly Haines, MA" [level=5] [ref=e318]
+            - img "Kelly Haines, MA" [ref=e320]
+            - list [ref=e321]:
+              - listitem [ref=e322]: VR state systems
+              - listitem [ref=e323]: Research
+              - listitem [ref=e324]: Program evaluation
+              - listitem [ref=e325]: Business engagement
+      - paragraph
+    - generic [ref=e327]:
+      - blockquote [ref=e328]:
+        - paragraph [ref=e329]: "\"The Arc of the Bay had the opportunity to work with the Institute for Community Inclusion and found the experience very valuable. Their strategic support and resources expanded our vision in our daily approach to inclusion within the workplace.\""
+        - img "Ron Sharpe" [ref=e330]
+        - paragraph [ref=e331]:
+          - text: "-Ron Sharpe, Executive Director"
+          - text: Arc of the Bay
+      - paragraph [ref=e332]
+  - contentinfo [ref=e333]:
+    - generic [ref=e335]:
+      - iframe [ref=e338]: <a href="https://iciwebs.wufoo.com/forms/zqftxf31v3ze9w/" title="html form">Fill out my Wufoo form!</a>:
+        - generic [ref=f1e2]:
+          - generic [ref=f1e3]:
+            - banner [ref=f1e4]:
+              - heading "Contact ICI Consulting" [level=2] [ref=f1e5]
+              - generic [ref=f1e6]: Let us know how we can help you and somebody will get back to you promptly.
+            - list [ref=f1e7]:
+              - listitem [ref=f1e8]:
+                - generic [ref=f1e9]: Name
+                - generic [ref=f1e10]:
+                  - textbox "First" [ref=f1e11]:
+                    - /placeholder: ""
+                  - generic [ref=f1e12]: First
+                - generic [ref=f1e13]:
+                  - textbox "Last" [ref=f1e14]:
+                    - /placeholder: ""
+                  - generic [ref=f1e15]: Last
+              - listitem [ref=f1e16]:
+                - generic [ref=f1e17]: Email
+                - textbox "Email" [ref=f1e19]:
+                  - /placeholder: ""
+              - listitem [ref=f1e20]:
+                - generic [ref=f1e21]: Phone Number
+                - generic [ref=f1e22]:
+                  - textbox "###" [ref=f1e23]:
+                    - /placeholder: ""
+                  - generic [ref=f1e24]: "###"
+                - generic [ref=f1e25]: "-"
+                - generic [ref=f1e26]:
+                  - textbox "###" [ref=f1e27]:
+                    - /placeholder: ""
+                  - generic [ref=f1e28]: "###"
+                - generic [ref=f1e29]: "-"
+                - generic [ref=f1e30]:
+                  - textbox "####" [ref=f1e31]:
+                    - /placeholder: ""
+                  - generic [ref=f1e32]: "####"
+              - listitem [ref=f1e33]:
+                - generic [ref=f1e34]: What problem can we help you solve?
+                - textbox "What problem can we help you solve?" [ref=f1e36]:
+                  - /placeholder: ""
+              - listitem [ref=f1e37]:
+                - button "Submit" [ref=f1e39] [cursor=pointer]
+          - generic [ref=f1e40]:
+            - text: This site is protected by reCAPTCHA Enterprise and the Google
+            - link "Privacy Policy" [ref=f1e41] [cursor=pointer]:
+              - /url: https://policies.google.com/privacy
+            - text: and
+            - link "Terms of Service" [ref=f1e42] [cursor=pointer]:
+              - /url: https://policies.google.com/terms
+            - text: apply.
+      - generic [ref=e339]:
+        - paragraph [ref=e340]:
+          - img "Institute for Community Inclusion" [ref=e341]
+        - paragraph [ref=e342]:
+          - text: ©1992- 2026.
+          - link "Institute for Community Inclusion" [ref=e343] [cursor=pointer]:
+            - /url: http://communityinclusion.org
+          - text: at the University of Massachusetts Boston.
+        - generic [ref=e344]:
+          - text: Institute for Community Inclusion
+          - text: UMass Boston
+          - text: 100 Morrissey Blvd.
+          - text: Boston, Massachusetts 02125
+        - text: "Voice: (617) 287-4300"
+        - text: "TTY: (617) 287-4350"
+        - text: "Email:"
+        - link "ici.consulting@umb.edu" [ref=e345] [cursor=pointer]:
+          - /url: mailto:ici.consulting@umb.edu

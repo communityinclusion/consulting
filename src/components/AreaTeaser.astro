@@ -1,0 +1,18 @@
+---
+interface Props {
+  slug: string;
+  teaserTitle: string;
+  teaserDescription: string;
+  externalUrl?: string;
+}
+
+const { slug, teaserTitle, teaserDescription, externalUrl } = Astro.props;
+const href = externalUrl || `/${slug}/`;
+---
+
+<a href={href} class="card cardh">
+                    <div class="card-body">
+              <h3 set:html={teaserTitle} />
+              <p>{teaserDescription}</p>
+                    </div>
+            </a>
