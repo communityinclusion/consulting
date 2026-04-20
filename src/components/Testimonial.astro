@@ -1,0 +1,23 @@
+---
+interface Props {
+  quote: string;
+  name: string;
+  title: string;
+  photo: string;
+  photoAlt: string;
+}
+
+const { quote, name, title, photo, photoAlt } = Astro.props;
+---
+
+<div class="testy">
+    <div class="mx-auto" style="max-width: 600px;">
+    <blockquote><p>{quote}</p>
+      <img src={photo} alt={photoAlt} class="float-right rounded smiles" />
+
+      <p>
+    -{name}<br>
+    {title}</p></blockquote>
+    <p class="clearfix"></p>
+    </div>
+</div>

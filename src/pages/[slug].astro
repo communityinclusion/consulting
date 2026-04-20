@@ -1,0 +1,89 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import StaffTeaser from '../components/StaffTeaser.astro';
+import { getCollection, render } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+
+export async function getStaticPaths() {
+  const staffEntries = await getCollection('staff');
+  const areaEntries = await getCollection('areas');
+
+  const staffPaths = staffEntries.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry, type: 'staff' as const },
+  }));
+
+  const areaPaths = areaEntries
+    .filter((entry) => !entry.data.externalUrl)
+    .map((entry) => ({
+      params: { slug: entry.id },
+      props: { entry, type: 'area' as const },
+    }));
+
+  return [...staffPaths, ...areaPaths];
+}
+
+type Props = {
+  entry: CollectionEntry<'staff'> | CollectionEntry<'areas'>;
+  type: 'staff' | 'area';
+};
+
+const { entry, type } = Astro.props;
+const { Content } = await render(entry);
+
+// For area pages, get the associated staff members
+let areaStaff: CollectionEntry<'staff'>[] = [];
+if (type === 'area') {
+  const areaEntry = entry as CollectionEntry<'areas'>;
+  const allStaff = await getCollection('staff');
+  areaStaff = areaEntry.data.staffSlugs
+    .map((slug: string) => allStaff.find((s) => s.id === slug))
+    .filter(Boolean) as CollectionEntry<'staff'>[];
+}
+
+// Split area staff into rows of 3
+const staffRows: typeof areaStaff[] = [];
+for (let i = 0; i < areaStaff.length; i += 3) {
+  staffRows.push(areaStaff.slice(i, i + 3));
+}
+
+// Staff-specific data
+const isStaff = type === 'staff';
+const staffData = isStaff ? (entry as CollectionEntry<'staff'>).data : null;
+---
+
+<BaseLayout title={entry.data.title}>
+  {isStaff && staffData?.photo && (
+    <img src={staffData.photo} alt={staffData.photoAlt} class="float-left padding-right" />
+  )}
+
+  {isStaff && staffData?.expertise && (
+    <p>Expertise: {staffData.expertise}</p>
+  )}
+
+  <Content />
+
+  {type === 'area' && areaStaff.length > 0 && (
+    <section>
+      <h2>EXPERTS</h2>
+      {staffRows.map((row) => (
+        <>
+        <div class="row">
+          {row.map((staff) => (
+            <div class="col-md">
+              <StaffTeaser
+                slug={staff.id}
+                name={staff.data.name}
+                photo={staff.data.photo}
+                photoAlt={staff.data.photoAlt}
+                teaserExpertise={staff.data.teaserExpertise}
+              />
+            </div>
+          ))}
+        </div>
+        <p></p>
+        </>
+      ))}
+    </section>
+  )}
+</BaseLayout>
