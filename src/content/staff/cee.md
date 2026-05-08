@@ -1,6 +1,7 @@
 ---
-name: "Cecilia Gandolfo, MSEd, CESP"
-title: "Cecilia Gandolfo, MSEd, CESP"
+firstName: "Cecilia"
+lastName: "Gandolfo"
+title: ""
 photo: "/imgs/Cee.jpg"
 photoAlt: "Cecilia Gandolfo, MSEd, CESP"
 expertise: ""
@@ -9,6 +10,7 @@ teaserExpertise:
   - "Vocational Rehabilitation"
   - "Curriculum Development,Training, and Facilitation"
 email: "cecilia.gandolfo@umb.edu"
+credentials: "MSEd, CESP"
 order: 14
 ---
 

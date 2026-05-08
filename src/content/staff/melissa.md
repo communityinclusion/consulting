@@ -1,6 +1,7 @@
 ---
-name: "Melissa Alford, MHS"
-title: "Melissa Alford, MHS"
+firstName: "Melissa"
+lastName: "Alford"
+title: ""
 photo: "/imgs/MelissaAlford.jpg"
 photoAlt: "Melissa Alford, MHS"
 expertise: ""
@@ -10,6 +11,7 @@ teaserExpertise:
   - "Program evaluation"
   - "Mental health systems"
 email: "Melissa.Alford@umb.edu"
+credentials: "MHS"
 order: 16
 ---
 

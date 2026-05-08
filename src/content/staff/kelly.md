@@ -1,6 +1,7 @@
 ---
-name: "Kelly Haines, MA"
-title: "Kelly Haines, MA"
+firstName: "Kelly"
+lastName: "Haines"
+title: ""
 photo: "/imgs/KellyHaines.jpg"
 photoAlt: "Kelly Haines, MA"
 expertise: ""
@@ -10,6 +11,7 @@ teaserExpertise:
   - "Program evaluation"
   - "Business engagement"
 email: "Kelly.Haines@umb.edu"
+credentials: "MA"
 order: 18
 ---
 

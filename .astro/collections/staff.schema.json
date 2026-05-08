@@ -2,7 +2,10 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "type": "object",
   "properties": {
-    "name": {
+    "firstName": {
+      "type": "string"
+    },
+    "lastName": {
       "type": "string"
     },
     "title": {
@@ -37,8 +40,8 @@
     }
   },
   "required": [
-    "name",
-    "title",
+    "firstName",
+    "lastName",
     "photo",
     "photoAlt",
     "expertise",

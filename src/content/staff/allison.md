@@ -1,6 +1,7 @@
 ---
-name: "Allison B. Taylor, PhD, MSW"
-title: "Allison B. Taylor, PhD, MSW"
+firstName: "Allison"
+lastName: "Taylor"
+title: ""
 photo: "/imgs/AllisonTaylor.jpg"
 photoAlt: "Allison B. Taylor, PhD, MSW"
 expertise: ""
@@ -10,6 +11,7 @@ teaserExpertise:
   - "Program evaluation"
   - "Mental health systems"
 email: "allison.taylor@umb.edu"
+credentials: "PhD, MSW"
 order: 17
 ---
 

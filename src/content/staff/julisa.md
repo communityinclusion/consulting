@@ -1,6 +1,7 @@
 ---
-name: "Julisa Cully, MEd"
-title: "Julisa Cully, MEd"
+firstName: "Julisa"
+lastName: "Cully"
+title: ""
 photo: "/imgs/JulisaCully_300x350.jpg"
 photoAlt: "Julisa Cully"
 expertise: "Vocational Rehabilitation, Program Development and Management, Research, Knowledge Translation, TANF/Social Welfare, Mental Health Services and Systems"
@@ -10,6 +11,7 @@ teaserExpertise:
   - "Organizational and cultural change"
   - "Business Engagement"
 email: "julisa.cully@umb.edu"
+credentials: "MEd"
 order: 8
 ---
 

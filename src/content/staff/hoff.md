@@ -1,6 +1,7 @@
 ---
-name: "David Hoff, MSW"
-title: "David Hoff, MSW"
+firstName: "David"
+lastName: "Hoff"
+title: ""
 photo: "/imgs/hoff.jpg"
 photoAlt: "David Hoff."
 expertise: "Public Systems and Community Agencies, Employment Outcomes for People with Disabilities, Service Provision, Workforce Development"
@@ -10,6 +11,7 @@ teaserExpertise:
   - "Employment support practices"
   - "Service provider practices and management"
 email: "david.hoff@umb.edu"
+credentials: "MSW"
 order: 2
 ---
 

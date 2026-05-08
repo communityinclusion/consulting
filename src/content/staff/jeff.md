@@ -1,6 +1,7 @@
 ---
-name: "Jeff Coburn"
-title: "Jeff Coburn"
+firstName: "Jeff"
+lastName: "Coburn"
+title: ""
 photo: "/imgs/jeff.jpg"
 photoAlt: "Jeff Coburn"
 expertise: "Accessible Web Development, Compliance Testing, Public Speaking/Writing, Agile Project Management"

@@ -1,6 +1,7 @@
 ---
-name: "Linda Mock, MS"
-title: "Linda Mock, MS"
+firstName: "Linda"
+lastName: "Mock"
+title: ""
 photo: "/imgs/Linda Mock_300x350.jpg"
 photoAlt: "Linda Mock."
 expertise: "Vocational Rehabilitation, Transition, Special Education, Business Engagement, Policy Development, Progressive Employment, Specialized Services for People Who Are Blind/Visually Impaired"
@@ -9,6 +10,7 @@ teaserExpertise:
   - "Transition from school to adult life"
   - "Business engagement"
 email: "linda.mock@umb.edu"
+credentials: "MS"
 order: 9
 ---
 

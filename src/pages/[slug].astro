@@ -50,9 +50,15 @@ for (let i = 0; i < areaStaff.length; i += 3) {
 // Staff-specific data
 const isStaff = type === 'staff';
 const staffData = isStaff ? (entry as CollectionEntry<'staff'>).data : null;
+
+const pageTitle = isStaff
+  ? [`${staffData!.firstName} ${staffData!.lastName}`, staffData!.credentials]
+      .filter(Boolean)
+      .join(', ')
+  : (entry as CollectionEntry<'areas'>).data.title;
 ---
 
-<BaseLayout title={entry.data.title}>
+<BaseLayout title={pageTitle}>
   {isStaff && staffData?.photo && (
     <img src={staffData.photo} alt={staffData.photoAlt} class="float-left padding-right" />
   )}
@@ -73,7 +79,8 @@ const staffData = isStaff ? (entry as CollectionEntry<'staff'>).data : null;
             <div class="col-md">
               <StaffTeaser
                 slug={staff.id}
-                name={staff.data.name}
+                firstName={staff.data.firstName}
+                lastName={staff.data.lastName}
                 photo={staff.data.photo}
                 photoAlt={staff.data.photoAlt}
                 teaserExpertise={staff.data.teaserExpertise}

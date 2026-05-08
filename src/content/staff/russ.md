@@ -1,6 +1,7 @@
 ---
-name: "Russ Thelin, M.S., LVRC, CRC"
-title: "Russell J. Thelin - MS, LVRC, CRC"
+firstName: "Russ"
+lastName: "Thelin"
+title: ""
 photo: "/imgs/russ.jpg"
 photoAlt: "Russ Thelin"
 expertise: "Vocational Rehabilitation, Organizational Leadership, Policy Development, Youth with Disability, Business Engagement/Relations, Transition and Special Education"
@@ -10,6 +11,7 @@ teaserExpertise:
   - "Business Engagement"
   - "Inclusive Higher Education"
 email: "russell.thelin@umb.edu"
+credentials: "M.S., LVRC, CRC"
 order: 11
 ---
 

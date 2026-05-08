@@ -1,6 +1,7 @@
 ---
-name: "Alvaro Tobar, MEd"
-title: "Alvaro Tobar, MEd"
+firstName: "Alvaro"
+lastName: "Tobar"
+title: ""
 photo: "/imgs/alvaro.jpg"
 photoAlt: "Alvaro Tobar"
 expertise: "Instructional Technology and Media Integration, Multimedia Design, Video Production, Education"
@@ -9,6 +10,7 @@ teaserExpertise:
   - "Learning management system design and development"
   - "Instructional design and course developmment"
 email: "alvaro.tobar@umb.edu"
+credentials: "MEd"
 order: 1
 ---
 
