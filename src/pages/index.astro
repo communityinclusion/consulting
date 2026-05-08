@@ -8,10 +8,12 @@ import { getCollection } from 'astro:content';
 const allStaff = await getCollection('staff');
 const allAreas = await getCollection('areas');
 
-// Staff order matching the original homepage layout
-const staffOrder = ['alvaro', 'hoff', 'jaimie', 'jeff', 'jenn', 'joe', 'john', 'julisa', 'linda', 'neil', 'russ', 'vito', 'lara', 'cee', 'cindy', 'melissa', 'allison', 'kelly'];
-
-const orderedStaff = staffOrder.map(slug => allStaff.find(s => s.id === slug)).filter(Boolean);
+const orderedStaff = [...allStaff].sort((a, b) => {
+  const ao = a.data.order ?? Infinity;
+  const bo = b.data.order ?? Infinity;
+  if (ao !== bo) return ao - bo;
+  return a.data.lastName.localeCompare(b.data.lastName);
+});
 
 // Area order matching the original homepage layout
 const areaOrder = ['vr', 'provider', 'a11y', 'media'];
