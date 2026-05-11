@@ -1,17 +1,17 @@
 ---
-firstName: "Jaimie"
-lastName: "Timmons"
-title: ""
-photo: "/imgs/Jaimie Timmons_300x350.jpg"
-photoAlt: "Jaimie Timmons."
-expertise: "Provider Transformation, Community Life Engagement, Research Methods, Employment Policy and Practices for People with Disabilities, Organizational Change and State Systems Change, Transition from School to Adult Life"
+firstName: Jaimie
+lastName: Timmons
+title: ''
+photo: /imgs/JaimieTimmons_1000.jpg
+photoAlt: Jaimie Timmons.
+expertise: Provider Transformation, Community Life Engagement, Research Methods, Employment Policy and Practices for People with Disabilities, Organizational Change and State Systems Change, Transition from School to Adult Life
 teaserExpertise:
-  - "Service provider practices and management"
-  - "Community life engagement"
-  - "Research"
-  - "Family engagement"
-email: "jaimie.timmons@umb.edu"
-credentials: "MSW"
+  - Service provider practices and management
+  - Community life engagement
+  - Research
+  - Family engagement
+email: jaimie.timmons@umb.edu
+credentials: MSW
 order: 3
 ---
 

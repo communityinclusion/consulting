@@ -1,17 +1,17 @@
 ---
-firstName: "David"
-lastName: "Hoff"
-title: ""
-photo: "/imgs/hoff.jpg"
-photoAlt: "David Hoff."
-expertise: "Public Systems and Community Agencies, Employment Outcomes for People with Disabilities, Service Provision, Workforce Development"
+firstName: David
+lastName: Hoff
+title: ''
+photo: /imgs/DavidHoff_1000.jpg
+photoAlt: David Hoff.
+expertise: Public Systems and Community Agencies, Employment Outcomes for People with Disabilities, Service Provision, Workforce Development
 teaserExpertise:
-  - "IDD state systems"
-  - "Workforce development systems"
-  - "Employment support practices"
-  - "Service provider practices and management"
-email: "david.hoff@umb.edu"
-credentials: "MSW"
+  - IDD state systems
+  - Workforce development systems
+  - Employment support practices
+  - Service provider practices and management
+email: david.hoff@umb.edu
+credentials: MSW
 order: 2
 ---
 

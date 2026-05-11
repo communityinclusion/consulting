@@ -1,16 +1,16 @@
 ---
-firstName: "Cecilia"
-lastName: "Gandolfo"
-title: ""
-photo: "/imgs/Cee.jpg"
-photoAlt: "Cecilia Gandolfo, MSEd, CESP"
-expertise: ""
+firstName: Cecilia
+lastName: Gandolfo
+title: ''
+photo: /imgs/CeciliaGandolfo1000.jpg
+photoAlt: Cecilia Gandolfo, MSEd, CESP
+expertise: ''
 teaserExpertise:
-  - "Employment Services/Progressive Employment"
-  - "Vocational Rehabilitation"
-  - "Curriculum Development,Training, and Facilitation"
-email: "cecilia.gandolfo@umb.edu"
-credentials: "MSEd, CESP"
+  - Employment Services/Progressive Employment
+  - Vocational Rehabilitation
+  - Curriculum Development,Training, and Facilitation
+email: cecilia.gandolfo@umb.edu
+credentials: MSEd, CESP
 order: 14
 ---
 

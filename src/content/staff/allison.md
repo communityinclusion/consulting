@@ -1,17 +1,17 @@
 ---
-firstName: "Allison"
-lastName: "Taylor"
-title: ""
-photo: "/imgs/AllisonTaylor.jpg"
-photoAlt: "Allison B. Taylor, PhD, MSW"
-expertise: ""
+firstName: Allison
+lastName: Taylor
+title: ''
+photo: /imgs/AllisonTaylor_1000.jpg
+photoAlt: Allison B. Taylor, PhD, MSW
+expertise: ''
 teaserExpertise:
-  - "VR state systems"
-  - "Research"
-  - "Program evaluation"
-  - "Mental health systems"
-email: "allison.taylor@umb.edu"
-credentials: "PhD, MSW"
+  - VR state systems
+  - Research
+  - Program evaluation
+  - Mental health systems
+email: allison.taylor@umb.edu
+credentials: PhD, MSW
 order: 17
 ---
 

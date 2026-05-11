@@ -11,15 +11,16 @@ collections:
     label: Staff
     folder: "src/content/staff"
     create: true
-    slug: "{{fields.name | slugify}}"
+    slug: "{{fields.firstName}}-{{fields.lastName}}"
     extension: md
     format: yaml-frontmatter
     fields:
-      - { label: "Name", name: "name", widget: "string", required: true }
-      - { label: "Title", name: "title", widget: "string", required: true }
+      - { label: "First Name", name: "firstName", widget: "string", required: true }
+      - { label: "Last Name", name: "lastName", widget: "string", required: true }
+      - { label: "Job Title", name: "title", widget: "string", required: false }
       - { label: "Photo", name: "photo", widget: "image", required: true }
       - { label: "Photo Alt Text", name: "photoAlt", widget: "string", required: true }
-      - { label: "Expertise (comma-separated)", name: "expertise", widget: "string", required: true }
+      - { label: "Expertise (comma-separated)", name: "expertise", widget: "string", required: false }
       - label: "Teaser Expertise"
         name: "teaserExpertise"
         widget: "list"
@@ -47,9 +48,9 @@ collections:
         name: "staffSlugs"
         widget: "relation"
         collection: "staff"
-        search_fields: ["name"]
+        search_fields: ["lastName", "firstName"]
         value_field: "{{slug}}"
-        display_fields: ["name"]
+        display_fields: ["lastName", "firstName"]
         multiple: true
         required: true
       - { label: "External URL", name: "externalUrl", widget: "string", required: false }

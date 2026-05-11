@@ -1,17 +1,17 @@
 ---
-firstName: "Melissa"
-lastName: "Alford"
-title: ""
-photo: "/imgs/MelissaAlford.jpg"
-photoAlt: "Melissa Alford, MHS"
-expertise: ""
+firstName: Melissa
+lastName: Alford
+title: ''
+photo: /imgs/MelissaAlford_1000.jpg
+photoAlt: Melissa Alford, MHS
+expertise: ''
 teaserExpertise:
-  - "VR state systems"
-  - "Research"
-  - "Program evaluation"
-  - "Mental health systems"
-email: "Melissa.Alford@umb.edu"
-credentials: "MHS"
+  - VR state systems
+  - Research
+  - Program evaluation
+  - Mental health systems
+email: Melissa.Alford@umb.edu
+credentials: MHS
 order: 16
 ---
 

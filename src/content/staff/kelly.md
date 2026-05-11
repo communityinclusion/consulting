@@ -1,17 +1,17 @@
 ---
-firstName: "Kelly"
-lastName: "Haines"
-title: ""
-photo: "/imgs/KellyHaines.jpg"
-photoAlt: "Kelly Haines, MA"
-expertise: ""
+firstName: Kelly
+lastName: Haines
+title: ''
+photo: /imgs/KellyHaines1000.jpg
+photoAlt: Kelly Haines, MA
+expertise: ''
 teaserExpertise:
-  - "VR state systems"
-  - "Research"
-  - "Program evaluation"
-  - "Business engagement"
-email: "Kelly.Haines@umb.edu"
-credentials: "MA"
+  - VR state systems
+  - Research
+  - Program evaluation
+  - Business engagement
+email: Kelly.Haines@umb.edu
+credentials: MA
 order: 18
 ---
 

@@ -1,16 +1,16 @@
 ---
-firstName: "Linda"
-lastName: "Mock"
-title: ""
-photo: "/imgs/Linda Mock_300x350.jpg"
-photoAlt: "Linda Mock."
-expertise: "Vocational Rehabilitation, Transition, Special Education, Business Engagement, Policy Development, Progressive Employment, Specialized Services for People Who Are Blind/Visually Impaired"
+firstName: Linda
+lastName: Mock
+title: ''
+photo: /imgs/LindaMock_1000.jpg
+photoAlt: Linda Mock.
+expertise: Vocational Rehabilitation, Transition, Special Education, Business Engagement, Policy Development, Progressive Employment, Specialized Services for People Who Are Blind/Visually Impaired
 teaserExpertise:
-  - "VR state systems"
-  - "Transition from school to adult life"
-  - "Business engagement"
-email: "linda.mock@umb.edu"
-credentials: "MS"
+  - VR state systems
+  - Transition from school to adult life
+  - Business engagement
+email: linda.mock@umb.edu
+credentials: MS
 order: 9
 ---
 

@@ -9,7 +9,7 @@ const staff = defineCollection({
     title: z.string().optional(),
     photo: z.string(),
     photoAlt: z.string(),
-    expertise: z.string(),
+    expertise: z.string().optional(),
     teaserExpertise: z.array(z.string()),
     email: z.string(),
     credentials: z.string().optional(),

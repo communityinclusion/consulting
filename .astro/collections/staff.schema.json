@@ -44,7 +44,6 @@
     "lastName",
     "photo",
     "photoAlt",
-    "expertise",
     "teaserExpertise",
     "email"
   ]

@@ -1,17 +1,17 @@
 ---
-firstName: "Julisa"
-lastName: "Cully"
-title: ""
-photo: "/imgs/JulisaCully_300x350.jpg"
-photoAlt: "Julisa Cully"
-expertise: "Vocational Rehabilitation, Program Development and Management, Research, Knowledge Translation, TANF/Social Welfare, Mental Health Services and Systems"
+firstName: Julisa
+lastName: Cully
+title: Associate Director
+photo: /imgs/JulisaCully_1000.jpg
+photoAlt: Julisa Cully
+expertise: Vocational Rehabilitation, Program Development and Management, Research, Knowledge Translation, TANF/Social Welfare, Mental Health Services and Systems
 teaserExpertise:
-  - "VR state systems"
-  - "Mental health systems"
-  - "Organizational and cultural change"
-  - "Business Engagement"
-email: "julisa.cully@umb.edu"
-credentials: "MEd"
+  - VR state systems
+  - Mental health systems
+  - Organizational and cultural change
+  - Business Engagement
+email: julisa.cully@umb.edu
+credentials: MEd, Associate Director
 order: 8
 ---
 

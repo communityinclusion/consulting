@@ -1,17 +1,17 @@
 ---
-firstName: "Jeff"
-lastName: "Coburn"
-title: ""
-photo: "/imgs/jeff.jpg"
-photoAlt: "Jeff Coburn"
-expertise: "Accessible Web Development, Compliance Testing, Public Speaking/Writing, Agile Project Management"
+firstName: Jeff
+lastName: Coburn
+title: ''
+photo: /imgs/jeff-coburn...webp
+photoAlt: Jeff Coburn
+expertise: Accessible Web Development, Compliance Testing, Public Speaking/Writing, Agile Project Management
 teaserExpertise:
-  - "Inclusive web development"
-  - "Agile project management"
-  - "Organizational information technology"
-  - "Conference speaker"
-email: "jeff.coburn@umb.edu"
-credentials: "IAAP Certified Professional in Accessibility Core Competencies (CPACC), Certified Scrum Master (Agile)"
+  - Inclusive web development
+  - Agile project management
+  - Organizational information technology
+  - Conference speaker
+email: jeff.coburn@umb.edu
+credentials: IAAP Certified Professional in Accessibility Core Competencies (CPACC), Certified Scrum Master (Agile)
 order: 4
 ---
 
