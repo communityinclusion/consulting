@@ -1,9 +1,9 @@
 ---
 firstName: "jean"
-lastName: "Windsor"
+lastName: "Winsor"
 title: ""
-photo: /imgs/JeanWindsor_400.jpg
-photoAlt: Jean Windsor
+photo: /imgs/JeanWinsor_400.jpg
+photoAlt: Jean Winsor
 expertise: State IDD Systems, Funding Strategies for Employment and Non-Work Services Outcome, Data Collection, Disability Policy & Interagency Collaboration
 teaserExpertise:
   - State IDD Systems
